@@ -1,0 +1,14 @@
+package animalCrossing;
+
+Order of Versions:
+no folder name, then statistics and duplicate
+
+Order of Versions Explicit:
+v1, v2, v3a, v3b, v3c, statistics.v1, statistics.v2, duplicate.v1, duplicate.v2, duplicate.v3
+Note for duplicate: 
+v1 has 1 and 2
+v2 has 2 and 3 (solution)
+v3 has 2 and 3 (solutions) and 4 (whole tree)
+
+Latest Solver:
+v3b
